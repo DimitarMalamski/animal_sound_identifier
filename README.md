@@ -11,6 +11,7 @@ This notebook is intentionally designed as a foundational starting point and doe
 Please ensure that you are familiar with the following aspects in order to successfully work with this repo and notebook.
  - You can explain the difference between [classification and regression](https://www.geeksforgeeks.org/machine-learning/ml-classification-vs-regression/) problems.
  - You know what a class is and how some problems can be [multiclass or multilabel](https://www.geeksforgeeks.org/machine-learning/multiclass-classification-vs-multi-label-classification/).
+ - You understand what [Accuracy](https://www.geeksforgeeks.org/machine-learning/how-to-check-the-accuracy-of-your-machine-learning-model/), [Precision and Recall](https://www.geeksforgeeks.org/machine-learning/precision-and-recall-in-machine-learning/) are.
  - You understand the general idea of [feature extraction](https://www.geeksforgeeks.org/machine-learning/what-is-feature-extraction/).
 
 
