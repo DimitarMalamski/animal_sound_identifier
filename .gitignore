@@ -12,6 +12,8 @@ __pycache__/
 # ML training logs
 lightning_logs/
 lightning_logs
+mfcc_*/
+experiments/
 
 # OS files
 .DS_Store
